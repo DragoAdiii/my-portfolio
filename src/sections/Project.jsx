@@ -55,7 +55,7 @@ function Project() {
       name: "Crazy Sneaker",
       Brief:
         "Interactive sneaker product slider showcasing the latest designs using HTML, CSS, and JavaScript.",
-      github: "https://github.com/DragoAdiii/SneakerCol",
+      github: "https://dragoadiii.github.io/SneakerCol/",
       techStack: ["HTML", "CSS", "JavaScript"]
     },
     {
@@ -71,7 +71,7 @@ function Project() {
       name: "iOS Calculator",
       Brief:
         "A replica of the iOS calculator with a clean UI, built using HTML, CSS, and JavaScript.",
-      github: "https://github.com/DragoAdiii/IOS_Calculator",
+      github: "https://dragoadiii.github.io/IOS_Calculator/",
       techStack: ["HTML", "CSS", "JavaScript"]
     }
   ]);
