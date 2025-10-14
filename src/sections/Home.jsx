@@ -1,6 +1,6 @@
 import PP from "../assets/Photo.jpg";
 import { FiDownload } from "react-icons/fi";
-import resume from "../assets/AdityaMamluskar-Resume-latest.pdf";
+import resume from "../assets/AdityaMamluskar-Resume.pdf";
 import { useEffect } from "react";
 
 function Home() {
