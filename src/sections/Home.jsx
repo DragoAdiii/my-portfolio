@@ -1,6 +1,6 @@
 import PP from "../assets/Photo.jpg";
 import { FiDownload } from "react-icons/fi";
-import resume from "../assets/AdityaMamluskar-Resume.pdf";
+import resume from "../assets/AdityaMamluskar-Resume-latest.pdf";
 import { useEffect } from "react";
 
 function Home() {
@@ -10,7 +10,6 @@ function Home() {
     const typingTexts = [
       "Aspiring Data Analyst  ",
       "Full Stack Developer   ",
-      "Cloud Computing Enthusiast  ",
       "Keyboardist  ",
       "Footballer  ",
     ];
@@ -67,7 +66,7 @@ function Home() {
           <span id="typing-animation"></span>
         </p>
         <p className="text-gray-300 text-lg leading-relaxed mb-8">
-          Aspiring Cloud Computing & Software Engineer currently pursuing Computer Engineering at VIT Mumbai.
+          Aspiring Data Analyst & Full Stack Engineer ,currently pursuing Computer Engineering at VIT Mumbai.
           Passionate about full-stack development, problem-solving, and crafting impactful tech solutions —
           from web apps to hackathon prototypes. Let’s innovate and build something awesome!
         </p>
@@ -80,15 +79,16 @@ function Home() {
             Contact Me
           </a>
           <a
-            className="bg-gradient-to-r flex items-center from-teal-500 to-indigo-600 py-3 px-6 rounded hover:-translate-y-1 hover:shadow-[0_0_15px_rgba(59,130,246,0.4)] font-medium transition relative z-20 overflow-hidden"
-            href={resume}
-            download
-          >
-            <p>Resume</p>
-            <span className="h-5 ml-3 text-2xl text-white">
-              <FiDownload />
-            </span>
-          </a>
+    className="bg-gradient-to-r flex items-center from-teal-500 to-indigo-600 py-3 px-6 rounded hover:-translate-y-1 hover:shadow-[0_0_15px_rgba(59,130,246,0.4)] font-medium transition relative z-20 overflow-hidden"
+  href="https://drive.google.com/file/d/1DbHd2tb12Tq-KY212DMSvgftKZFkFw0H/view?usp=sharing"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <p>Resume</p>
+  <span className="h-5 ml-3 text-2xl text-white">
+    <FiDownload />
+  </span>
+</a>
         </div>
       </div>
     </section>

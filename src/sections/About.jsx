@@ -48,7 +48,7 @@ function About() {
           <div className="p-8 mb-6 rounded-xl border-white/10 border-2 hover:-translate-y-1 transition-all">
             <p className="text-gray-300 text-lg leading-relaxed mb-8">
               {" "}
-              Hey there! I'm Aditya Mamluskar, a B.E. Computer Engineering student at Vidyalankar Institute of Technology. I started my journey with Web Development back in junior college and have since expanded my skillset across React, Python, C++, Java, MySQL, and now Cloud Computing. I’ve built full-stack projects, developed games with Python, and even used NLP in hackathons to automate workflows. I'm a certified Data Analyst (CDAC, Juhu) and constantly explore new domains like DSA and cloud infrastructure. Off the screen, I’m either playing football or jamming on the keyboard 🎹.
+              Hey there! I'm Aditya Mamluskar, A Computer Engineering student at Vidyalankar Institute of Technology. I started my journey with Web Development back in junior college and continuing my tech journey ,I expanded my skillset across Full stack Development ,React , Python, C++, Java, MySQL, and now Upskilling myself for the role of Data Analyst. I’ve built some full-stack projects, developed games with Python,Some ML and Deep Learning Model , and even used NLP in hackathons to automate workflows. I'm a certified Data Analyst (CDAC, Juhu) and constantly exploring new domains like DSA and cloud infrastructure. Off the screen, I’m either playing football or jamming on the keyboard 🎹.
               {" "}
             </p>
           </div>
